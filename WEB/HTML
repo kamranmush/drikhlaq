@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dr Ikhlaq A Choudhary</title>
+  <link rel="stylesheet" href="CSS">
+  <style>
+    h1 {
+      text-align: center;
+    }
+
+    h2 {
+      text-align: center; 
+    }
+  
+  
+  </style>
+  <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"
+/>
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="block1">
+      <div class="block1-1">
+        <div class="nav-list">
+          <div id="logo">
+            <img src="23.jpeg">
+          </div>
+
+        </div>
+<br>
+<br>
+<br>
+
+      <div class="contaner">
+<!-- Slider main container -->
+<div class="swiper">
+  <!-- Additional required wrapper -->
+  <div class="swiper-wrapper">
+    <!-- Slides -->
+    <div class="swiper-slide"><img src="KAM1.jpg"></div>
+    <div class="swiper-slide"><img src="KAM3.JPG"></div>
+    <div class="swiper-slide"><img src="29.jpeg"></div>
+    <div class="swiper-slide"><img src="kam2.jpg"></div>
+    <div class="swiper-slide"><img src="28.jpeg"></div>
+  </div>
+  <!-- If we need pagination -->
+  <div class="swiper-pagination"></div>
+
+  <!-- If we need navigation buttons -->
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+
+ 
+  
+</div>
+      </div>
+
+ 
+     
+   
+        <h1 >Online treatment and consultation with<br>
+          a licensed psychiatrist</h1>
+        <h2> <i>We all have thoughts and behaviors that hold us <br> back. With online therapy, you’ll learn<br> to
+            discover and overcome these hurdles with the <br> support of a licensed counselor.</h2></i>
+      </div>
+    </div>
+  
+  <div class="block1-2 img">
+    <img src="kam2.jpg">
+  </div>
+  <div class="block1-2">
+    <i>
+      <h1>Hi,I am Dr. Ikhlaq Ahmed <br>am a psychiatrist <br> Sound mental health is important for a healthy and
+        balanced lifestyle, and in our clinic we work for the same. Our objective is making people happy and healthy
+        through our authentic treatments. We Dr Ikhlaq A Choudhary Psychiatrist, situated at Mohali Sector 70,
+        Chandigarh, have experienced and skilled doctors. All patients are assured of the best service in a very
+        non-stressful ambience and thorough attention is paid to hygiene and sanitation. </Datag>
+      </h1>
+    </i>
+  </div>
+</div>
+  <br>
+  <br>
+  <br>
+  <br>
+ <font size="30"><h1>Gallary</h1></font>
+  <div class="Gallary">
+   <center><a href="img/25.jpeg"><img src="25.jpeg"></a>
+   
+    
+    <a href="img/28.jpeg"><img src="28.jpeg"></a>
+    <a href="img/30.jpeg"><img src="30.jpeg"></a>
+    <a href="img/29.jpeg"><img src="29.jpeg"></a>
+   <a href="img/24.jpeg"><img src="24.jpeg"></a>
+   <a href="img/27.jpeg"><img src="27.jpeg"></a>
+   <font size="30"><h1>Videos</h1></font>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/vcOm9V5tJz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/AqnGLiWt_34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/DhlRgwdDc-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/IaSpas9hWNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </center>
+  </div>
+  <div class="block-2">
+    <div class="block2-heading">
+      <h3>Service</h3>
+    </div>
+    <div class="block2-cards">
+      <div class="block2-items">
+        <h1>Marital problem doctor</h1>
+        <hr>
+        <p>Our set of doctors are expert<br> in solving Marital problems </p>
+        <a href="https://www.verywellmind.com/common-marriage-problems-and-solutions-3144958"
+          class="details_link">Details</a>
+      </div>
+      <div class="block2-items">
+        <h1>Psychiatrist doctor for children</h1>
+        <hr>
+        <p>We have experienced psychiatrists doctors <br> all the kids out there so <br>that they can talk about your
+          queries</p>
+        <a href="https://www.webmd.com/mental-health/mental-illness-children" class="details_link">Details</a>
+      </div>
+    </div>
+    <div class="block2-cards">
+      <div class="block2-items">
+        <h1>chronic/cyclic depression</h1>
+        <hr>
+        <p>Characterized by a persistent fealling<br> of sadness, depression has become a<br> common illness today</p>
+        <a href="https://my.clevelandclinic.org/health/diseases/17843-mood-disorders" class="details_link">Details</a>
+      </div>
+      <div class="block2-items">
+        <h1>Bipolar disorder/schizophrenia</h1>
+        <hr>
+        <p>While split personality disorders can be <br>treated today, they require immediate<br> medical attention!</p>
+        <a href="https://www.webmd.com/bipolar-disorder/mental-health-bipolar-disorder" class="details_link">Details</a>
+      </div>
+    </div>
+    <div class="block2-cards">
+      <div class="block2-items">
+        <h1>Child & adolesent problems</h1>
+        <hr>
+        <p>It is important to detect personalogical <br>problems in children as early as <br>possible all cases</p>
+        <a href="https://www.educationinsecond.com/2021/04/problem-of-teenager-paragraph.html"
+          class="details_link">Details</a>
+      </div>
+      <div class="block2-items">
+        <h1>Violent behavior in kids and adults</h1>
+        <hr>
+        <p>Anger can transform itself into an extreme <br>form of emotion, leading to Violent<br>  behavior </p>
+        <a href="https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Understanding-Violent-Behavior-In-Children-and-Adolescents-055.aspx"
+          class="details_link">Details</a>
+      </div>
+    </div>
+  </div>
+
+  </div>
+  <br>
+  <br>
+  <H1>What We Help With</H1>
+  <i>
+    <H2>Try therapy For a happier , productive and Stress free life</H2>
+  </i>
+  <br>
+  <br>
+  <div id="menu-outer">
+    <div class="table">
+      <ul id="horizontal-list">
+        <li><a href="#"><img src="10.jpeg" alt="Stress" /></a></li>
+        <li><a href="#"><img src="11.jpeg" alt="Sleep" /></a></li>
+        <li><a href="#"><img src="12.jpeg" alt="self Imporovement" /></a></li>
+        <li><a href="#"><img src="13.jpeg" alt="Focus" /></a></li>
+        <li><a href="#"><img src="14.jpeg" alt="Anxiety" /></a></li>
+        <li><a href="#"><img src="15.jpeg" alt="Depression" /></a></li>
+        <li><a href="#"><img src="16.jpeg" alt="Relationships" /></a></li>
+      </ul>
+      <br>
+      <br>
+      <H1>What We Assure</H1>
+      <br>
+      <br>
+      <ul id="horizontal-list">
+       <li><a href="#"><img src="17.jpeg" alt="list item 1" /></a></li>
+        <li><a href="#"><img src="18.jpeg" alt="list item 2" /></a></li>
+        <li><a href="#"><img src="19.jpeg" alt="list item 3" /></a></li>
+        <li><a href="#"><img src="20.jpeg" alt="list item 4" /></a></li>
+      </ul>
+    </div>
+  </div>
+
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <i>
+    <H1>Contact us</H1>
+  </i>
+  <br>
+
+  <img src="21.jpeg">
+  <iframe
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3430.8029937568936!2d76.71651571433736!3d30.695818594463432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390fee90d4325f87%3A0xb9a7fc5db4bbeb79!2sHealth%20Square!5e0!3m2!1sen!2sin!4v1658809387964!5m2!1sen!2sin"
+    width="1250" height="450" style="border:0;" frameborder=”0″ style=”border:0″ allowfullscreen></iframe>
+    <div class="container">
+      <h1>Appointment form </h1>
+      <form action="https://formspree.io/f/mlevrrev" id="ft-form" method="POST" accept-charset="UTF-8">
+        <fieldset>
+          <legend>For person</legend>
+          <label>
+            Name
+            <input type="text" name="name" required>
+          </label>
+          <div class="two-cols">
+            <label>
+              Email address
+              <input type="email" name="email" required>
+            </label>
+            <label>
+              Phone number
+              <input type="tel" name="phone">
+            </label>
+          </div>
+        </fieldset>
+        <fieldset>
+          <legend>Appointment request</legend>
+          <div class="two-cols">
+            <label>
+              Datum
+              <input type="date" name="Appointment request" required>
+            </label>
+            <div class="inline">
+              <label>
+                <input type="hidden" name="Morning desired" value="no">
+                <input type="checkbox" name="Morning desired" value="yes">
+                Morning
+              </label>
+              <label>
+                <input type="hidden" name="Afternoon desired" value="no">
+                <input type="checkbox" name="Afternoon desired" value="yes">
+                Afternoon
+              </label>
+            </div>
+          </div>
+          <p>Confirmation requested by</p>
+          <div class="inline">
+            <label>
+              <input type="radio" name="Confirmation requested by" value="email" checked>
+              Email
+            </label>
+            <label>
+              <input type="radio" name="Confirmation requested by" value="phone">
+              Phone call
+            </label>
+          </div>
+        </fieldset>
+        <div class="btns">
+          <input type="text" name="_gotcha" value="" style="display:none;">
+          <input type="submit" value="Submit request">
+        </div>
+      </form>
+
+  </div>
+  </div>
+  <a href="https://www.justdial.com/Chandigarh/Dr-Ikhlaq-A-Choudhary-Psychiatrist-Near-Gopal-Food-Mohali-Sector-70/0172PX172-X172-220502182507-N4V3_BZD"><img src="22.jpeg"></a>
+  <br>
+  <br>
+  <br>
+  <br>
+  &copy; Copyrights 2022 - 2029.Dr Ikhlaq A Choudhary Psychiatrist.All Rights Reserved.
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
+
+  <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+  <script>
+    const swiper = new Swiper('.swiper', {
+     autoplay: {
+          delay: 1000,
+          disableOnInteraction: false,
+     },
+  loop: true,
+
+ 
+  pagination: {
+    el: '.swiper-pagination',
+    clickable:true,
+  },
+
+
+  navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+  },
+
+  
+ 
+});
+</script>
+</body>
+
+</html>
+
